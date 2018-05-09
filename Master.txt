@@ -1,4 +1,7 @@
 
-<Version: 0.04>
+<Version: 1.04>
+/data/Map125.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map125.json
+/data/MapInfos.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/MapInfos.json
+/data/Map011.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map011.json
 
 <End of Version>
