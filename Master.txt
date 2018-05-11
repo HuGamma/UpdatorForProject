@@ -1,6 +1,5 @@
 
 <Version: 1.04>
-/data/Map125.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map125.json
 
 <Version: 1.05>
 /data/MapInfos.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/MapInfos.json
@@ -32,5 +31,6 @@
 /img/faces/hen.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/hen.png
 /img/weapons/Book.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Book.png
 /img/weapons/Hadouken.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Hadouken.png
+/data/Map125.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map125.json
 
 <End of Version>
