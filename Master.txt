@@ -1,7 +1,36 @@
 
 <Version: 1.04>
 /data/Map125.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map125.json
+
+<Version: 1.05>
 /data/MapInfos.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/MapInfos.json
 /data/Map011.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map011.json
+/data/Map130.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map130.json
+/data/Map129.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map129.json
+/data/Map133.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map133.json
+/data/Map128.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map128.json
+/data/Map040.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map040.json
+/data/Map009.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map009.json
+/data/Map004.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map004.json
+/data/Map119.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map119.json
+/data/Map056.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map056.json
+/data/Map067.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map067.json
+/data/Map047.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map047.json
+/js/plugins.js https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/plugins.js
+/js/plugins/OrangeEventManager.js https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/OrangeEventManager.js
+/js/plugins/OrangeTimeSystem.js https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/OrangeTimeSystem.js
+/js/plugins/OrangeTimeSystemVariables.js https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/OrangeTimeSystemVariables.js
+/js/plugins/HIME_CommonEventQueue.js https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/HIME_CommonEventQueue.js
+/js/plugins/MVCommons.js https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/MVCommons.js
+/data/Classes.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Classes.json
+/data/Enemies.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Enemies.json
+/data/Skills.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Skills.json
+/data/System.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Weapons.json
+/img/faces/hen.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/hen.png
+/img/weapons/Book.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Book.png
+/img/weapons/Hadouken.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Hadouken.png
 
 <End of Version>
