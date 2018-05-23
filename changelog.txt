@@ -1,0 +1,66 @@
+Journal des changements:
+1.03: base
+
+1.04:
+map125			 [UL]
+mapinfos		OD
+map011			OD
+
+1.05:
+map130			 [UL]X
+map129			 [UL]X
+map133			 [UL]X
+map128			 [UL]X
+map040			 [UL]X
+map038			 [UL]X
+map009			 [UL]x
+map004			 [UL]x
+map119			 [UL]x
+map056			 [UL]x
+map067			 [UL]x
+map047			 [UL]x
+variables
+inter
+classes			 [UL]x
+ennemis			 [UL]x
+weapons			 [UL]x	
+ev communs		 [UL]x
+acteurs			 [UL]x
+oranges_plugins		 [UL]x
+mv commons		 [UL]x
+hime CE queue plugin	 [UL]x
+hen_faces		 [UL]x
+tileset			 [UL]x
+OK
+
+1.06:
+plug: dex/cbranches+/LB_reload/boss warning
+activ yeprepel/LBreload   UL
+credits changed		UL
+map011			UL
+map117			UL
+map020			UL
+map013			UL
+map032			UL
+map008			UL
+map134			UL
+map129			UL
+map132			UL
+map130			UL
+map135
+violet tileset
+underw tileset
+ogg kozaky
+questbook
+objets
+troopsennemies
+skills
+bomb_cave
+nar_hi
+nar_tense
+rand4.png char
+bonus1.png faces
+plugins
+
+
+à faire:
