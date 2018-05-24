@@ -18,7 +18,7 @@
 /img/weapons/Hadouken.png https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Hadouken.png
 /data/Map125.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map125.json
 
-<Version: 1.06>
+<Version: 1.07>
 /data/MapInfos.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/MapInfos.json
 /data/Map011.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map011.json
 /data/Map130.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map130.json
