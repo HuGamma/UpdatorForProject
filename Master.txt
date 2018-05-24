@@ -27,7 +27,7 @@
 /data/Map128.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map128.json
 /data/Map090.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map090.json
 /data/Map021.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map021.json
-/dat0/Map132.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map132.json
+/data/Map132.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map132.json
 /data/Map032.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map032.json
 /data/Map117.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map117.json
 /data/Map129.json https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map129.json
