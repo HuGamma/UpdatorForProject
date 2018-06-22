@@ -1,5 +1,6 @@
 
 <Version: 1.07>
+<End of Version>
 
 <Version: 1.08>
 /data/Tilesets.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Tilesets.json
