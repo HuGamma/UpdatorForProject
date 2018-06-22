@@ -1,4 +1,52 @@
 
 <Version: 1.07>
 
+<Version: 1.08>
+/data/Tilesets.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Tilesets.json
+/data/Troops.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Troops.json
+/data/Weapons.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Weapons.json
+/data/Map004.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map004.json
+/data/Map136.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map136.json
+/data/Map034.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map034.json
+/data/Map086.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map086.json
+/data/Map087.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map087.json
+/data/Map088.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map088.json
+/data/Map084.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map084.json
+/data/Map081.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map081.json
+/data/Map082.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map082.json
+/data/Map078.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map078.json
+/data/Map077.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map077.json
+/data/Map076.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map076.json
+/data/Map011.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map011.json
+/data/Map069.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map069.json
+/data/Map131.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map131.json
+/data/Map129.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map129.json
+/data/Map127.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map127.json
+/data/Map130.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map130.json
+/data/Map047.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map047.json
+/data/Map126.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map126.json
+/data/Map071.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map071.json
+/data/Map037.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map037.json
+/data/Map120.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map120.json
+/data/Map048.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map048.json
+/data/Map010.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map010.json
+/data/Map096.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map096.json
+/data/Map107.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map107.json
+/data/Map002.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map002.json
+/data/Map031.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map031.json
+/data/Map001.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map001.json
+/data/Map032.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Map032.json
+/data/Actors.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Actors.json
+/data/Animations.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Animations.json
+/data/Armors.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Armors.json
+/data/Classes.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Clases.json
+/data/CommonEvents.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/CommonEvents.json
+/data/Enemies.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Enemies.json
+/data/Items.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Items.json
+/data/MapInfos.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/MapInfos.json
+/data/Skills.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Skills.json
+/data/States.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/States.json
+/data/System.json  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/System.json
+/data/Master.txt  https://raw.githubusercontent.com/HuGamma/UpdatorForProject/master/Master.txt
+
 <End of Version>
